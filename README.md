@@ -7,7 +7,12 @@ Thinking about how our society organizes, we can identify different layers.
 On the bottom layer we have the basic understanding of the primary pillars that sustain everything else. This means, redefining the bottom layer is changing the way we organize and think of a society today.
 
 ### a) Governance
-xxx
+Throughout history, centralized political organizations, bureaucracy and representative democracy have been a solution to a scaling problem: coordination and decision-making processes among an heterogeneous group of people.  They have been mostly developed for the purpose of reaching consensus and coordination between heterogeneous or distant groups of people, facilitating their mutual interactions.
+
+Although their main purpose is to facilitate reaching consensus and mutual interactions among individuals, centralized organizations with top-down structures tend to be are systematically exposed to significant risks, such as lack of transparency, corruption, and a big target of all kind of coercions (Single Point of Failure). Which brings the classic question: "who will watch the watchmen?"
+
+Decentralization aims to reduce or prevent such concentration of power and it is a fundamental condition for citizens to achieve political efficacy, equality, transparency, and freedom.
+
 ### b) Economy
 xxx
 ### c) Information 
@@ -20,7 +25,6 @@ xxx
 xxx
 # 2. About the WIBB Project
 ## 2.1. Aim
-Women In Blockchain Barcelona (WIBB) is much more than a group of people who meetup from time to time to discuss a specific topic, that’s why we talk about the “WIBB Project”.
 The first aim of this project is to share and expand a deep understanding on what blockchain is and why it is important for our society, through a women voice. 
 The end goal is to culminate this knowledge in a tool that people can use to contribute on redefining the layers above expose. 
 By this we can transform the structures that hold the system of our societies we know today, in a non-precedent way.
@@ -30,7 +34,7 @@ Everyone can attend to the events we organize.
 We specially encourage people from different backgrounds, since this will enrich our community and give us other insights and perspectives.
 ## 2.3. Structure
 WIBB Project is build upon 2 vertex: the events and the platform. These 2 vertex nourish each other and reinforce the global aim of the project.
-### a) WIBB Events
+### a) Events
 The WIBB events are classified on:
 * talks
 * technical workshops
