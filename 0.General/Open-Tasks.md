@@ -1,6 +1,7 @@
 # WIBB Project: ToDo's
 ## WIBB DAO
-- [ ] DAPP development on top of Aragon for automatically send WIBB tokens to the event attendees. (WIP)
+- [ ] DAPP1- Automatic WIBB Token Sender: development of an application on top of Aragon for automatically send WIBB tokens to the event attendees public addresses. (WIP)
+- [ ] DAPP2- Events Planner: development of an application on top of Aragon for creating and managing events (think if makes sense to unify the 2 in 1?)
 
 ## WIBB Platform
 ### a) Front End
