@@ -1,9 +1,14 @@
 # WIBB Project: ToDo's
-## WIBB DAO
+## General
+- [ ] Define Roadmap. Upcoming milestones (exploring DAO on Rinkeby, growing the community, establish a voting methodology linked with the events, etc.)
+
+## DAO
+- [ ] Define Protocol for token management when operating on the mainnet
+- [ ] Agree with the Settings for the Democracy Project when operating on the mainnet (%support, %min.quorum, vote duration)
 - [ ] DAPP1- Automatic WIBB Token Sender: development of an application on top of Aragon for automatically send WIBB tokens to the event attendees public addresses. (WIP)
 - [ ] DAPP2- Events Planner: development of an application on top of Aragon for creating and managing events (think if makes sense to unify the 2 in 1?)
 
-## WIBB Platform
+## Platform
 ### a) Front End
 - [x] Logo
 - [x] Background
@@ -16,7 +21,7 @@
 - [ ] Connect event attendees with platform
 - [ ] IPFS Deployment
 
-## WIBB Events
+## Events
 - [ ] Find Sponsors 
 - [ ] Looking for Women Speakers (permanently open)
 
