@@ -1,23 +1,27 @@
 # WIBB Project: ToDo's
 ## WIBB DAO
-xxx
+- [ ] DAPP development on top of Aragon for automatically send WIBB tokens to the event attendees. (WIP)
 
 ## WIBB Platform
-xxxx
-
 ### a) Front End
-xxx
+- [x] Logo
+- [x] Background
+- [ ] Define functionalities (WIPP)
+- [ ] Webpage design
+- [ ] Code
 
 ### b) Back End
-xxxx
+- [ ] Develop a solution to map attendees username's with their public addresses (WIP)
+- [ ] Connect event attendees with platform
+- [ ] IPFS Deployment
 
 ## WIBB Events
-xxxx
+- [ ] Find Sponsors 
+- [ ] Looking for Women Speakers (permanently open)
 
-### xxxx
 
 ## Social Media Actions
-xxxx
+- [ ] Twitter account management
 
 Contact us on:
 * [Twitter Account](https://twitter.com/wiblockchainbcn)
