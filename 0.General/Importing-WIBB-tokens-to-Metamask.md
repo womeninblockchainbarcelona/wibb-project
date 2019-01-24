@@ -3,7 +3,7 @@
 2. xxxx
 3. xxxx
 
-![](/Graphics/WIBB-Token-Metamask.gif)
+![](Graphics/WIBB-Token-Metamask.gif)
 
 
 
