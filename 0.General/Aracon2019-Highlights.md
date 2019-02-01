@@ -15,13 +15,13 @@
 * Christoph Jentzsch explained how he lived [TheDAO Hack](https://blog.slock.it/the-history-of-the-dao-and-lessons-learned-d06740f8cfa5)
 ## General Trends
 ### Topic: Communication
-* Talked with the colleagues form Status and they have implemented a way for mail-secure communication based on whisper protocol.
+* Talked with the colleagues form Status and they have implemented a way for mail-secure communication based on whisper protocol. To consider make use of Status app for managing communications and take advantage of their support to Dapps (Aragon), ENS, wallets and web3
 ### Topic: Identity
-* There was a panel discussion and a project presentation. There are different approaches for solving identity. Reputation systems, use of zksnarkshe
+* There was a panel discussion and a project presentation. There are different approaches for solving identity. There were mentioned reputation systems based on participation, use of zksnarks
 * The use of biometrics for identity is not a good solution for preserving privacy rights. You can easily change your wallet address but you cannot easily change your biometrics
 ### Topic: Data
-* Google is indexing ethereum and bitcoin blockchain and you can actually make queries 
-* Signaling: measuring sentiment of the multistake hoder community about different topics, based on twitter publications of most influencial people
+* [Google is indexing](https://cointelegraph.com/news/google-adds-ethereum-blockchain-dataset-to-its-big-data-analytics-platform) ethereum and bitcoin blockchain and you can actually make queries 
+* Concept of Signaling: measuring sentiment of the multistake hoder community about different topics, based on twitter publications of most influencial people
 ### Topic: DAOs and Governance
 * Conflict resolution and delegated voting are the trends of today’s governance
 * Approach for passive participants for increasing participation
