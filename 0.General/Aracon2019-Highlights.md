@@ -24,14 +24,20 @@
 * Signaling: measuring sentiment of the multistake hoder community about different topics, based on twitter publications of most influencial people
 ### Topic: DAOs and Governance
 * Conflict resolution and delegated voting are the trends of today’s governance
-* Approach for passive participants? Ex. % of votes for Aragon AGP was around 7%
+* Approach for passive participants for increasing participation
 * Futarchy scheme for digital jurisdictions. Incentives and fees
 * Governance of 0x Protocol
 ### Topic: Diversity
 * The inherent bias in our technology
 * Inclusion and Diversity: how to build technology that represents everyone
-### Topic: Use-Cases
-* BirghtID
+### Topic: Use-Cases from Nest Grants
+* [BirghtID](https://www.brightid.org/)
+* [DAppNode](https://dappnode.io/)
+* [Frame]()
+* [Pando](https://medium.com/pando-network/pando-b5e1a2af3152)
+* [LevelK](https://www.levelk.io/)
+* [Espresso](https://github.com/espresso-org) 
+
 
 
 
