@@ -1,15 +1,16 @@
 # 1. WIBB Context: Blockchain and DLTs
 ## 1.1. Where Do We Come From?
-Intermediaries have been in the scene for a long time. They act as the nexus for facilitating transactions among individuals who don’t know each other. The scenario can be summed up pretty shortly: I don’t know you and you don’t know me but we want to interact with each other. How do we do that? We both trust a 3rd party (either a bank, business-service or whichever is the case) so we can operate through it.
+Intermediaries have been in the scene for a long time. They act as the nexus for facilitating transactions among individuals who don’t know each other. The scenario can be summed up pretty shortly: I don’t know you and you don’t know me but we want to interact with each other. How do we do that? We both trust a 3rd party (either a bank, business-service or whichever is the case) so we can operate through it. The intermediary charges a fee for this service and everybody is happy. 
 
-This classical model has been very convenient but it presents some flaws. What happens if this intermediary is not that trustful as we thought it was? What happens if it takes advantage of its power position?  The problems doesn’t end here. An intermediary as a center of a system becomes also a single point of failure (SPoF). This means that if it is attacked/hacked or some sort of accident happens, the information/value that hold from their customers can be lost. 
-The intermediary of course charges for this services. We have to deposit our trust on it.
+This classical model has been very convenient but it presents some flaws. We have to deposit our trust on the intermediary, so what happens if it is not as trustful as we thought it was? What happens if it takes advantage of its power position? 
+The problem doesn’t end here. An intermediary as a center of a system becomes also a single point of failure (SPoF) of that system. This means that if it is attacked/hacked or some sort of accident happens, the information/value that hold from their customers can be lost. 
+
 ## 1.2. Moving from Centralization to Decentralization
-Why there wasn’t a solution until now?
-If we take off the game intermediaries we have a purely peer-to-peer-system, where users transact directly within each other.
-Coordination among individuals who don’t trust each other is not easy. The well-known Byzantine Generals Problem reflects this situation: imagine a group of generals who want to take over a city. They have to act in coordination .
+If we take off the game intermediaries we have a purely peer-to-peer-system, where users transact directly within each other. Why there wasn’t a solution until now? Coordination among individuals who don’t trust each other is not easy. The well-known Byzantine Generals Problem reflects this situation: imagine a group of generals who want to take over a city. They have to act in coordination and decide at every moment whether to attack or retrieve. It is very easy when we have a leader which takes decisions and tells everyone what to do. It's not that easy when we have an horizontal system. 
 
 ![](0.General/Graphics/blockchain-highlights.png)
+
+What blockchain has to offer is a general approach for reaching consensus on a reality (world-state) among a group of individuals (nodes) who don't know each other. Through a very shortly defined protocol, Bitcoin was the 1st successful blockchain use-case
 
 ## 1.3. Biggest Picture Overview
 The technological progress that brings blockchain implies a convergence of all disciplines of knowledge in a way never seen before.
@@ -17,6 +18,8 @@ Thinking about how our society organizes, we can identify different layers.
 On the bottom layer we have the basic understanding of the primary pillars that sustain everything else. This means, redefining the bottom layer is changing the way we organize and think of a society today.
 
 ![](0.General/Graphics/wibb-topics.png)
+
+Algoritmic Bias.
 
 ### a) Governance
 Throughout history, centralized political organizations, bureaucracy and representative democracy have been a solution to a scaling problem: coordination and decision-making processes among an heterogeneous group of people.  They have been mostly developed for the purpose of reaching consensus and coordination between heterogeneous or distant groups of people, facilitating their mutual interactions.
