@@ -11,6 +11,8 @@ Why there wasn’t a solution until now?
 If we take off the game intermediaries we have a purely peer-to-peer-system, where users transact directly within each other.
 Coordination among individuals who don’t trust each other is not easy. The well-known Byzantine Generals Problem reflects this situation: imagine a group of generals who want to take over a city. They have to act in coordination .
 
+![](0.General/Graphics/blockchain-highlights.png)
+
 ## 1.3. Biggest Picture Overview
 The technological progress that brings blockchain implies a convergence of all disciplines of knowledge in a way never seen before.
 Thinking about how our society organizes, we can identify different layers.
