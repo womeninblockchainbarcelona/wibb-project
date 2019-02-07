@@ -2,9 +2,7 @@
 ## 1.1. Where Do We Come From?
 Intermediaries have been in the scene for a long time. They act as the nexus for facilitating transactions among individuals who don’t know each other. The scenario can be summed up pretty shortly: I don’t know you and you don’t know me but we want to interact with each other. How do we do that? We both trust a 3rd party (either a bank, business-service or whichever is the case) so we can operate through it.
 
-This model has been very convenient: advantages… Furthermore this third party “promises” us some guarantees.
-
-This is classical model has some flaws. What happens if this intermediary is not that trustful as we thought it was? What happens if it takes advantage of its power position?  The problems doesn’t end here. An intermediary as a center of a system becomes also a single point of failure (SPoF). This means that if it is attacked/hacked or some sort of accident happens, the information/value that hold from their customers can be lost. 
+This classical model has been very convenient but it presents some flaws. What happens if this intermediary is not that trustful as we thought it was? What happens if it takes advantage of its power position?  The problems doesn’t end here. An intermediary as a center of a system becomes also a single point of failure (SPoF). This means that if it is attacked/hacked or some sort of accident happens, the information/value that hold from their customers can be lost. 
 The intermediary of course charges for this services. We have to deposit our trust on it.
 ## 1.2. Moving from Centralization to Decentralization
 Why there wasn’t a solution until now?
@@ -56,7 +54,7 @@ What is needed for self-identity to have a more meaningful connotation for the c
 
 Seeing self-identity as an elastic asset is best done when we imagine it as a particular package of contractual rights a person possesses over her productive ideas. Such rights can be specific to the individual as well as residual over the set of all specifiable and unspecifiable ideas that individuals collaborate with in an enterprise. Where the residual rights over any given expansion of the set of ideas permits more productive use than when farmed out to other individuals, the self-identity of an individual grows. This is a fundamental insight of the incomplete contract literature. Fundamentally, what this suggests for blockchains is that until they are not interoperable across a wide set of applications, the benefit of self-identity on the blockchain is limited to not much more than digital safekeeping of its crispest elements
 
-### f) Privacy
+### e) Privacy
 Centralized platforms are very useful for coordinating activities yet, they often come at the expense of privacy. Users of these platforms need to share their personal data in order to use their services, without even knowing what these operators will do with their data.
 
 Decentralized platforms given that there is no central authority in charge of managing the network, coordination can only be achieved by disclosing information to all nodes, which means that decentralized systems requiere a higher degree of transparency in order to operate. For that reason the impact of decentralization on the privacy and confidentiality of information comes at 2 levels:
@@ -116,9 +114,12 @@ Furthermore, they have built-in enforceable agreements through smart-contracts. 
 
 Governances is much more than aggregating votes, that’s why we are experimenting. Distance participation, vote delegation
 
+WIBB DAO Address is 0xc0B4682Cf65518fbC0602aF6D735B4fcaBd8B080
+
 ## 3.2. WIBB Token
 We have a token, called “WIBB” build on top of Aragon.
-Since it is an ERC20 compatible, you can easily import the token to your wallet. Its smart contract address is: xxxx
+Since it is an ERC20 compatible, you can easily import the token to your wallet. Its smart contract address is: 0x7d4ccf6af2f0fdad48ee7958bcc28bdef7b732c7
+
 We operate on Rinkeby (the Ethereum testnet). For every transaction you want to make, you would also need Ethers from Rinkeby (you can ask them to Rinkeby faucet, or contact WIBB directly and we will provide some to you).
 Bear in mind that WIBB and Ethers from Rinkeyby don’t hold any real value on fiat (€/$..). the intention is exploring governance without any cost. 
 
@@ -150,12 +151,12 @@ Considering developing a platform? IPFS
 # 5. Contribute
 Here are some ways for contributing to this project:
 
-- Share our event son social media and helps us reaching as much people as possible
+- Share [our events](https://www.meetup.com/es-ES/Women-in-Blockchain-Barcelona/) on social media and helps us reaching as much people as possible
 
 - Connect us to women experts speakers from all the backgrounds
 
-- Participate actively in our DAO, proposing ideas and improvements
+- Participate actively in [our DAO](https://rinkeby.aragon.org/#/wibb.aragonid.eth/), proposing ideas and improvements
 
-- Check our open tasks and contribute in the way you wish
+- Check [our open tasks](0.General/Open-Tasks.md) and contribute in the way you wish
 
 Thank you for collaboration and for joining us connecting knowledge, which leads us to a better understanding of social, economic and technological interactions. Everyday we are closer to our final goal of empower individuals.
