@@ -80,7 +80,7 @@ It is an inclusive community.
 
 ## 2.3. Strategy
 WIBB Project is build upon 2 vertex: the events and the platform. These 2 vertex nourish each other and reinforce the global aim of the project.
-### a) Events
+### a) Knowledge Connection: Events
 The WIBB events are classified on:
 * talks
 * technical workshops
@@ -93,7 +93,7 @@ The idea is to fulfill each of these categories with knowledge, insights and ide
 How will we achieve this? With the help of the WIBB Platform. 
 ![Topics](0.General/Topics-WIBB-Events.md)
 Distributing knowledge
-### b) Knowledge Digestion
+### b) Knowledge Digestion: Platform
 WIBB Platform gathers all the know-how derived from the events. This is extremely necessary in order to build a structure around them. The idea is to provide a shared repository where participants can add and connect knowledge. The interesting thing here is connecting knowledge from different disciplines (with the common nexus of blockchain). WIBB Platform will also act as the event “connecting-thread”. First approach would be a decentralized platform on top of Ethereum deployed on IPFS. The basis of the needed features is currently under definition, hoping receiving more inputs derived from the future event themselves.
 
 ![](0.General/Graphics/wibb-project-overview.png)
@@ -143,7 +143,7 @@ Besides that, we are currently building another DAPP on top of Aragon, that spec
 
 # 4. WIBB Roadmap
 
-Link to open tasks
+We are working on different [Open Tasks](0.General/Open-Tasks.md)
 
 Implementing ENS,
 

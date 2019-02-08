@@ -10,7 +10,7 @@ We are looking for women experts who want to give talks on the following topics.
 - Decentralized Autonomous Organizations (DAOS)
 - Passive participants and how to deal with low participation on the governance process?
 - Who should vote? (rights) Prerequisites for voting (education, information, participation on the network )
-- What ? Governance is much more than aggregating votes. Discussions, trainings, …
+- What should be voted? Governance is much more than aggregating votes. Discussions, trainings, …
 - Vote delegation and liquid democracy
 - Systems of democracy. Systems of governance. Ontocracy
 - Including smart devices on the voting processes
