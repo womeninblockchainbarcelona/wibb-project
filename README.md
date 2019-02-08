@@ -99,7 +99,7 @@ WIBB Platform gathers all the know-how derived from the events. This is extremel
 ![](0.General/Graphics/wibb-project-overview.png)
 ## 2.4. Location
 We are based in Barcelona and the events take place in the city.
-Depotlab is hosting our events right now. We are very thankful to them and kindly transfer our gratitude to them for betting on us from the very beginning. 
+[Depotlab](https://depotlabbcn.com/) is hosting our events. We are very thankful to them and kindly transfer our gratitude for betting on us from the very beginning. 
 We are also connected globally around the world. We use international blockchain conferences to promote our project and to work on synergies with other aligned projects. 
 ## 2.5. Social Media
 * [Twitter Account](https://twitter.com/wiblockchainbcn)
