@@ -9,7 +9,7 @@
 
 4. Elementus
 
-<h3>Sociological Vision:</h3>
+<h3>Sociological Vision</h3>
 1. Famous dichotomy btw privacy and transparency (link to point 1-2)
 
 2. Blackbox society. Secrecy as a competitive advantage. (link to point 3)
@@ -20,6 +20,10 @@
 
 <h2>WIBB Privacy Event 2</h2>
 <h3>Technical Vision</h3>
-<h3>Sociological Vision:</h3>
-
-
+1. xxx
+2. xxx
+3. xxx
+<h3>Sociological Vision</h3>
+1. xxx
+2. xxx
+3. xxx
