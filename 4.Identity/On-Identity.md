@@ -24,17 +24,17 @@
 
 
 <h3>Sociological Vision</h3>
-1. What is Identity<i>Link to point 1, 7, 9</i>
+1. What is Identity. <i>Link to point 1, 7, 9</i>
 
-2. Identity of Groups <i>Link to point 1, 7, 9</i>
+2. Identity of Groups. <i>Link to point 1, 7, 9</i>
 
-3. Identity and Reputation systems <i>Link to point 8, 10</i>
+3. Identity and Reputation systems. <i>Link to point 8, 10</i>
 
-4. Biometrics (face recognition, fingerprints): promise or peril?<i>Link to point 1, 8</i>
+4. Biometrics (face recognition, fingerprints): promise or peril?<i> Link to point 1, 8</i>
 
-5. Freedom of speech and reputation <i>Link to point 8, 10</i>
+5. Freedom of speech and reputation. <i>Link to point 8, 10</i>
 
-6. Authorities and claims <i>Link to point 10</i>
+6. Authorities and claims. <i>Link to point 10</i>
 
 <h2>WIBB Identity - Knowledge Digestion</h2>
 xxx

@@ -20,19 +20,19 @@
 9. Code is law. How to change the system on the bottom layer (redefining code, change rules of the game)
 
 <h3>Sociological Vision</h3>
-1. The Role of Authority in Society and/or Organisations<i>Link to point 1</i>
+1. The Role of Authority in Society and/or Organisations. <i>Link to point 1</i>
 
-2. How to aggregate opinions? How not to dilute diversity. Representations of minorities and uncommon opinions <i>Link to point 4</i>
+2. How to aggregate opinions? How not to dilute diversity. Representations of minorities and uncommon opinions. <i>Link to point 4</i>
 
-3. Vote Delegation and Liquid Democracy <i>Link to point 4 and 8</i>
+3. Vote Delegation and Liquid Democracy. <i>Link to point 4 and 8</i>
 
-4. Who should vote? (rights) Prerequisites for voting (education, information, participation on the network) <i>Link to point 8</i>
+4. Who should vote? (rights) Prerequisites for voting (education, information, participation on the network). <i>Link to point 8</i>
 
 5. What should be voted? Governance is much more than aggregating votes. Discussions, trainings... <i>Link to point 8</i>
 
-6. Systems of democracy. Systems of governance. Ontocracy <i>Link to point 9 and 4</i>
+6. Systems of democracy. Systems of governance. Ontocracy. <i>Link to point 9 and 4</i>
 
-7. Impartial trials <i>Link to point 5</i>
+7. Impartial trials. <i>Link to point 5</i>
 
 8. Passive participants and how to deal with low participation on the governance process? <i>Link to point 4</i>
 
