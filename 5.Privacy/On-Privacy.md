@@ -10,11 +10,11 @@
 4. Elementus
 
 <h3>Sociological Vision</h3>
-1. Famous dichotomy btw privacy and transparency <i>(link to point 1-2)</i>
+1. Famous dichotomy btw privacy and transparency. <i>Link to point 1-2)</i>
 
-2. Blackbox society. Secrecy as a competitive advantage. <i>(link to point 3)</i>
+2. Blackbox society. Secrecy as a competitive advantage. <i>Link to point 3</i>
 
-3. Data sovereignity <i>(link to point 3)</i>
+3. Data sovereignity. <i>Link to point 3</i>
 
 4. Leaks, whistleblowers, and legal disputes
 
