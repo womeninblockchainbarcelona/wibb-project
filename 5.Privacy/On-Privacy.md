@@ -14,8 +14,12 @@
 
 2. Blackbox society. Secrecy as a competitive advantage. (link to point 3)
 
-3. Leaks, whistleblowers, and legal disputes
+3. Data sovereignity (link to point 3)
 
-4. Data sovereignity (link to point 3)
+4. Leaks, whistleblowers, and legal disputes
+
+<h2>WIBB Privacy Event 2</h2>
+<h3>Technical Vision</h3>
+<h3>Sociological Vision:</h3>
 
 
